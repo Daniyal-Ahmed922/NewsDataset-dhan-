@@ -139,6 +139,11 @@ for x in range(co,len(df)):
     with open(filename+'.counter', 'w') as the_file:
         the_file.write(str(x)+'\n')
     os.system('cls' if os.name == 'nt' else 'clear')
+    with open('README.md', 'r') as f:
+        text = f.readlines()
+        text[-1]=str(x)+'\n'
+    with open('README.md', 'w') as f:
+        f.writelines(text)
 
 print("Dataset annotated")
 print("go ahead and split it into train and test")
