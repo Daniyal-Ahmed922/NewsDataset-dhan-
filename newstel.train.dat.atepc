@@ -1724,7 +1724,7 @@ whole O -999
 range O -999
 of O -999
 other O -999
-plants B-ASP Positive
+plants B-ASP -999
 growing O -999
 clovers O -999
 yarrow O -999
@@ -1738,9 +1738,51 @@ there O -999
 in O -999
 our O -999
 grass B-ASP Positive
-sward I-ASP Positive
-they O -999
+swardthey I-ASP Positive
 look O -999
 really O -999
 pretty O -999
+
+and O -999
+you O -999
+can O -999
+definitely O -999
+see O -999
+the O -999
+insects O -999
+being O -999
+attracted O -999
+to O -999
+them O -999
+
+but O -999
+they O -999
+are O -999
+really O -999
+really O -999
+beneficial O -999
+
+and O -999
+they O -999
+had O -999
+a O -999
+competition B-ASP Positive
+strimmers I-ASP Positive
+against O -999
+scythes B-ASP Negative
+and O -999
+the O -999
+scythers O -999
+won O -999
+on O -999
+speed B-ASP Positive
+and O -999
+resultsa B-ASP Positive
+lot O -999
+of O -999
+them O -999
+had O -999
+their O -999
+tops O -999
+off O -999
 
